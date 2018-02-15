@@ -1,0 +1,9 @@
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\bin\Release\CodMW_Unlocker.exe.config
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\bin\Release\CodMW_Unlocker.exe
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\bin\Release\CodMW_Unlocker.pdb
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.Properties.Resources.resources
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.csproj.GenerateResource.Cache
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.exe
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.pdb
+D:\Libraries\Documents\Visual Studio 2017\Projects\CodMW_Unlocker\CodMW_Unlocker\obj\Release\CodMW_Unlocker.csprojResolveAssemblyReference.cache
